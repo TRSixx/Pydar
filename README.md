@@ -34,3 +34,9 @@ Remember to copy index.php to /var/www/html
 
 Sometimes numpy will give you an error that it can't be imported even though you have already installed it through pip. If that happens try running `sudo apt-get install libatlas-base-dev`
 
+## NodeJS Experimental Branch
+
+Following some tutorial from https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f
+
+To try and figure out this rendering nonsense. 
+
